@@ -1,11 +1,11 @@
 # 👋 Hola!! 
 <p>
-    Mi nombre es <b>Joaquín</b>
+    Mi nombre es <b>Joaquín</b>.
 </p>
 <p>
     Soy <b>Analista Programador</b> y actualmente estudio <b>Ingeniería en Sistemas</b> en la Universidad Nacional de La Pampa.  
     Me apasiona el desarrollo web, en especial el <b>frontend</b>, donde disfruto crear interfaces limpias, modernas y fáciles de usar. 
-    Tengo conocimientos en diseño UX/UI, desarrollo de software, páginas web y moviles. Además de base de datos
+    Tengo conocimientos en diseño UX/UI, desarrollo de software, páginas web y moviles. Además de base de datos.
  </p>
  <p>
      🔧 Trabajo principalmente con <b>HTML, CSS, JavaScript y React</b>, pero también tengo experiencia con <b>Bootstrap, TailwindCSS, MySQL</b> y herramientas de diseño como <b>Figma</b> y <b>Canva</b>.  
@@ -36,5 +36,7 @@
   <img src="https://streak-stats.demolab.com?user=JoaquinC2000&theme=radical" alt="Racha de contribuciones"/>
 </p>
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joaquincenicero2000@gmail.com)
+## 📫 Podés contactarme en:
 
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joaquincenicero2000@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaquin-cenicero-301120301/)
