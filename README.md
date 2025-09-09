@@ -1,4 +1,5 @@
 # Hola, mi nombre es Joaquín
 
-Tecnologias:
+# Tecnologias:
+HTML • CSS (Tailwind) • JS • REACT • Git/GitHub
 
